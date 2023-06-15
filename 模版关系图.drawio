@@ -1,140 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T14:16:06.381Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2tGmlEFlwTrO7s00Jdzb" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T14:20:21.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3Wol236vXadWCS5G_Aiz" version="21.4.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1866" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="te-CPbT5JowZCKMu-uI0-2" value="@plato/babel-preset-taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-2" value="@plato/babel-preset-taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="480" y="290" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;babel配置预设&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-2">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;babel配置预设&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-2" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-8" value="@plato/eslint-config-taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="760" y="270" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-8" value="@plato/eslint-config-taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="760" y="290" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;eslint配置预设&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-8">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;eslint配置预设&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-8" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-41">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-43">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-49">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-53">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-10" target="te-CPbT5JowZCKMu-uI0-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-10" value="@plato/taro-template" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-10" value="@plato/taro-template" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="200" y="290" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro环境封装&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-10">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro环境封装&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-10" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-12" value="@plato/create-taro-app" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="200" y="600" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-12" value="@plato/create-taro-app" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="200" y="590" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;初始化taro项目命令行工具&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-12">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-13" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;初始化taro项目命令行工具&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-12" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-12">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" parent="te-CPbT5JowZCKMu-uI0-12" vertex="1">
           <mxGeometry y="80" width="250" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-12">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" parent="te-CPbT5JowZCKMu-uI0-12" vertex="1">
           <mxGeometry y="80" width="250" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-22" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-12">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-22" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=14;fillColor=#67AB9F;fontStyle=0;startSize=30;rounded=1;strokeWidth=2;shadow=0;dashed=0;arcSize=4;" parent="te-CPbT5JowZCKMu-uI0-12" vertex="1">
           <mxGeometry y="80" width="250" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-14" target="te-CPbT5JowZCKMu-uI0-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-14" value="taro-template-project" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="250" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro模版项目&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-14">
-          <mxGeometry y="30" width="250" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-15" target="te-CPbT5JowZCKMu-uI0-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-12" target="te-CPbT5JowZCKMu-uI0-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-15" target="te-CPbT5JowZCKMu-uI0-3">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="te-CPbT5JowZCKMu-uI0-11" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="450" y="485" />
-              <mxPoint x="605" y="485" />
+              <mxPoint x="326" y="450" />
+              <mxPoint x="326" y="410" />
+              <mxPoint x="325" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-15" target="te-CPbT5JowZCKMu-uI0-9">
+        <mxCell id="riIpo1jT9SxQM91FVuiS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="te-CPbT5JowZCKMu-uI0-3">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="885" y="485" />
+              <mxPoint x="325" y="410" />
+              <mxPoint x="605" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-35" target="te-CPbT5JowZCKMu-uI0-13">
+        <mxCell id="riIpo1jT9SxQM91FVuiS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="te-CPbT5JowZCKMu-uI0-9">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="450" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="150" y="665" />
-              <mxPoint x="150" y="665" />
+              <mxPoint x="325" y="410" />
+              <mxPoint x="885" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-35" value="user" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="610" width="70" height="110" as="geometry" />
+        <mxCell id="riIpo1jT9SxQM91FVuiS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="te-CPbT5JowZCKMu-uI0-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="450" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="325" y="410" />
+              <mxPoint x="1165" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-37" value="taro-project" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-14" value="taro-template-project" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#67AB9F;" parent="1" vertex="1">
+          <mxGeometry x="200" y="450" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-38" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro项目&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-37">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro模版项目&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-14" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-13" target="te-CPbT5JowZCKMu-uI0-38">
+        <mxCell id="riIpo1jT9SxQM91FVuiS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.556;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="te-CPbT5JowZCKMu-uI0-14" source="te-CPbT5JowZCKMu-uI0-15" target="te-CPbT5JowZCKMu-uI0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-40" value="@tarojs/taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-15" target="te-CPbT5JowZCKMu-uI0-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="te-CPbT5JowZCKMu-uI0-12" target="te-CPbT5JowZCKMu-uI0-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="te-CPbT5JowZCKMu-uI0-35" target="te-CPbT5JowZCKMu-uI0-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="640" />
+              <mxPoint x="160" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-35" value="user" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="570" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-37" value="taro-project" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#97D077;" parent="1" vertex="1">
+          <mxGeometry x="577" y="590" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-38" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro项目&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-37" vertex="1">
+          <mxGeometry y="30" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" parent="1" source="te-CPbT5JowZCKMu-uI0-13" target="te-CPbT5JowZCKMu-uI0-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="640" />
+              <mxPoint x="520" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-40" value="@tarojs/taro" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="200" y="130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro工具包&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-40">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-41" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro工具包&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-40" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-42" value="@tarojs/components" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-42" value="@tarojs/components" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="480" y="130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-43" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro组件包&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-42">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-43" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;taro组件包&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-42" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-44" value="@plato/components" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="270" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-44" value="@plato/components" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="290" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;柏拉图组件库&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-44">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;柏拉图组件库&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-44" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="te-CPbT5JowZCKMu-uI0-45" target="te-CPbT5JowZCKMu-uI0-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1165" y="485" />
-              <mxPoint x="885" y="485" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="te-CPbT5JowZCKMu-uI0-48" value="@tarojs/webpack5-runner" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
+          <mxGeometry x="760" y="130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-48" value="@tarojs/webpack5-runner" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
-          <mxGeometry x="770" y="130" width="250" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-49" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;taro构建环境&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-48">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-49" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;taro构建环境&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-48" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-52" value="react" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="130" width="250" height="80" as="geometry" />
+        <mxCell id="te-CPbT5JowZCKMu-uI0-52" value="react" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="te-CPbT5JowZCKMu-uI0-53" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;react库&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="te-CPbT5JowZCKMu-uI0-52">
+        <mxCell id="te-CPbT5JowZCKMu-uI0-53" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;react库&lt;/span&gt;&lt;/div&gt;" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;html=1;" parent="te-CPbT5JowZCKMu-uI0-52" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
