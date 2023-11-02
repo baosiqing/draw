@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T07:08:55.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="jctyyjR9_Z2w8VwcKSP9" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T10:24:23.418Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="7mMxqjTIliRY-w59jOQ0" version="21.8.2" type="github">
   <diagram name="第 1 页" id="RATa3XMQ9v-Yd4ltZImi">
     <mxGraphModel dx="1306" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,13 +105,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WDv-_vgnkxnOy3GJsvh--30" value="提交订单" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="119" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WDv-_vgnkxnOy3GJsvh--33" value="弹出设置密码提示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WDv-_vgnkxnOy3GJsvh--39" value="取消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="61" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
